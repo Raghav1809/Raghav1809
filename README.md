@@ -49,5 +49,23 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 📈 Stats:
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Raghav1809)](https://github.com/LordDashMe/github-contribution-stats/)
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💡 Let's Collaborate!
+
+🚀 Have a project idea? Let's make it a reality. I'm always open to new ideas and collaboration opportunities. Feel free to connect with me!
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚡ Fun Fact  
+💬 Challenge me in games, or explore the endless possibilities in tech!
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

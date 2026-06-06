@@ -1,4 +1,14 @@
+<!--horizontal divider(gradiant)-->  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi 👋, I'm Raghav Dattawadkar</h1>
+<h3 align="center">Passionate Developer | Innovator | AI Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raghav1809&label=Profile%20views&color=0e75b6&style=flat" alt="Raghav1809" />
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_raghav_189) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-dattawadkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dattawadkarraghav@gmail.com) 
 

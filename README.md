@@ -27,6 +27,9 @@
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92490273-c91f2b00-f22b-11ea-9481-b5daae4d7bc3.png">
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 🏆 Achievements:
 
@@ -37,6 +40,9 @@
     <img src="https://streak-stats.demolab.com/?user=Raghav1809&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Snake Game Repo View -->
 
@@ -55,6 +61,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav1809&theme=react-dark" alt="GitHub Activity Graph">
   </a>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### ✍️ Random Dev Quote

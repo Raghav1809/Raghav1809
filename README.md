@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=Raghav1809&label=Profile%20views&color=0e75b6&style=flat" alt="Raghav1809" />
 </p>
 
+![image](https://github.com/user-attachments/assets/e479c567-d121-4be8-b532-e60dc5faa82e)
+
 ### 🛠 About Me
 
 - 🌱 Currently exploring **Backend Development, AI & ML Technologies**  

@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Raghav1809&label=Profile%20views&color=0e75b6&style=flat" alt="Raghav1809" />
 </p>
 
-![image](https://github.com/user-attachments/assets/e479c567-d121-4be8-b532-e60dc5faa82e)
 
 ### 🛠 About Me
 
@@ -48,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav1809&theme=dracula" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav1809&theme=react-dark" alt="GitHub Activity Graph">
   </a>
 </p>
 

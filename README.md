@@ -28,11 +28,23 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Raghav1809&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Raghav1809&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raghav1809&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🏆 Achievements:
 
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Raghav1809&theme=highcontrast" alt="GitHub Streak" />
+  </a>
+</p>
+
+
+### 📈 Stats:
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=Raghav1809" alt="Contribution Stats" />
+  </a>
+</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">

@@ -38,13 +38,6 @@
   </a>
 </p>
 
-
-### 📈 Stats:
-<p align="center">
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=Raghav1809" alt="Contribution Stats" />
-  </a>
-</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
